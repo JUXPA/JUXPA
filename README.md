@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JUXPA
 - 👀 I’m interested in Programming languages
 - 🌱 I’m currently learning python language
-- 💞️ I’m looking to collaborate on creating a project in python langauge
+- 💞️ I’m looking to collaborate on python langauge projects
 - 📫 Reach me  on michaelopoku824@gmail.com
 
 <!---
